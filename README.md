@@ -7,3 +7,4 @@ First
 2. git status
 3. git add file name
 4. git restore file name
+5. git commit -m"message"
