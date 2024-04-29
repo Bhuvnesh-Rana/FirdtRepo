@@ -9,3 +9,6 @@ First
 4. git restore file name
 5. git commit -m"message"
 6. git push origin main
+
+7. ls -a
+8. git init
