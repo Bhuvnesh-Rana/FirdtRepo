@@ -10,7 +10,7 @@ First
 5. git commit -m"message"
 6. git push origin main
 <br>
-7. ls -a
+7. ls -a (to see files in folder and check if git is in folder or not)
 8. git init
 9. git add .(to add all files)
 10. git commit -m"message"
