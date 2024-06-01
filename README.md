@@ -1,4 +1,4 @@
-# FirdtRepo git commands.
+# FirstRepo git commands.
 This is my first repo.
 <br>
 Author : Bhuvnesh Rana.
