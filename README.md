@@ -23,3 +23,9 @@ First
 *******************************************************
 16. git pull origion main
 17. git pull --rebase origin main
+
+
+******************************************************
+(to change branch from default branch)
+18. git checkout branch name
+19. git checkout -b ur_branch_name
