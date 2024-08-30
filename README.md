@@ -27,5 +27,6 @@ First
 
 ******************************************************
 (to change branch from default branch)
-18. git checkout branch name
-19. git checkout -b ur_branch_name
+18. git fetch ?
+19. git checkout branch name
+20. git checkout -b ur_branch_name
