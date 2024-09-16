@@ -25,8 +25,12 @@ First
 17. git pull --rebase origin main
 
 
-******************************************************
+*******************************************************
 (to change branch from default branch)
 18. git fetch ?
 19. git checkout branch name
-20. git checkout -b ur_branch_name
+20. git checkout -b ur-branch-name
+in diff repo
+./gradlew clean build (-x task) (to exclude a task)
+./gradlew bootrun
+
