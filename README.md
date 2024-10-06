@@ -1,4 +1,4 @@
-# FirstRepo git commands.
+# First Repo git commands.
 This is my first repo.
 <br>
 Author : Bhuvnesh Rana.
