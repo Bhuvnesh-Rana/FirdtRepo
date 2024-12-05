@@ -31,6 +31,7 @@ First
 20. git checkout -b ur-branch-name
 
 21. to copy the commits from 1 branch to another, in intelliJ go to git, select the commits you want to carry, right click, create patch, then in commit go to shelf and import patches, then select the patch and unshelve to commit, and all your commit changes will be there in the commits tab.
+<br/>
 in diff repo
 ./gradlew clean build (-x task) (to exclude a task)
 ./gradlew bootrun
